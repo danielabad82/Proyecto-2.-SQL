@@ -26,6 +26,7 @@ Se identifican, entre otros:
   -	Tiene 2 tiendas y dos empleados.
   -	La película más reciente que tiene disponible para alquilar es de 2006.
   -	El alquiler medio es largo, 5 días, aunque no sabemos cuántos días incluye el pago del alquiler.
+
 Estos datos nos indican que es una tienda que no actualiza su base de datos desde hace muchos años, o que quizás cerro hace tiempo.
 
 5-	⏭️ Próximos Pasos
