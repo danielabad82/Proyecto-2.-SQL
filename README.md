@@ -20,7 +20,7 @@ Se han realizado las consultas planteadas en el PDF facilitado usando:
 El proyecto se ha realizado con el sistema de gestión de bases de datos relacional PostgreSQL y la interfaz gráfica DBeaver.
 
 4-	📊Resultados y Conclusiones
-Se identifica, entre otras:
+Se identifican, entre otros:
   -	La tienda tiene un gran número de películas disponibles, 1000, de 16 géneros diferentes.
   -	Tiene 599 clientes registrados.
   -	Tiene 2 tiendas y dos empleados.
