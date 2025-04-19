@@ -13,6 +13,7 @@ Se han realizado las consultas planteadas en el PDF facilitado usando:
 2-	🗃️Estructura del Proyecto
   - Readme
   - Esquema de la BBDD
+  - Consultas a realizar
   - Archivo con el análisis solicitado en SQL
 
 3-	🛠️Herramientas utilizadas
